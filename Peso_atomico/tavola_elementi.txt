@@ -1,0 +1,6 @@
+1 Idrogeno H 1.0079
+6 Carbonio C 12.0107
+8 Ossigeno O 15.9994
+16 Zolfo S 32.065
+34 Selenio Se 78.96
+52 Tellurio Te 127.6
